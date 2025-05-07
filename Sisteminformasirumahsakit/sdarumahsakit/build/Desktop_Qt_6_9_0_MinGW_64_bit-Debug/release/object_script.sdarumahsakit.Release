@@ -1,0 +1,10 @@
+release/admin.o
+release/inputdata.o
+release/login.o
+release/main.o
+release/user.o
+release/qrc_resource.o
+release/moc_admin.o
+release/moc_inputdata.o
+release/moc_login.o
+release/moc_user.o
